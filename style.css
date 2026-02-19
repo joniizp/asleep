@@ -1,3 +1,9 @@
+
+
+new cursoreffects.fairyDustCursor({
+  colors: ["#ff0000", "#00ff00", "#0000ff"],
+  fairySymbol: "★",
+});
 body {
   background-color: #6bfac8;
     font-family: HELVETICA;
