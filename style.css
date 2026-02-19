@@ -6,10 +6,12 @@ body {
 
 h1 {
   color: white;
-  text-align: left;
+  text-align: center;
 }
 
 p {
   font-family: HELVETICA;
   font-size: 20px;
+  text-align: center;
+}
 }
